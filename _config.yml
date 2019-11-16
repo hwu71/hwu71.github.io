@@ -88,3 +88,6 @@ events:
     web_url: https://github.com/hwu71/Password-Management-System-Based-on-Living-body-Authentication
     image_url01: ../photos/sec01.jpg
     image_url02: ../photos/sec02.jpg
+    
+# Google Analytics
+google_analytics: UA-152715299-1
