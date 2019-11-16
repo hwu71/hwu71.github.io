@@ -46,6 +46,9 @@
         {% if site.topics %}
           {% include interests.html %}
         {% endif %}
+		
+		<!--在这里添加events-->
+        {% include events.html %}
 
         {% unless posts_total == 0 %}
           {% include thoughts.html %}

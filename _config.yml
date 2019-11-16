@@ -17,7 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
@@ -49,10 +49,42 @@ social_media:
 topics:
   - name: C/C++
     web_url: https://github.com/hwu71/PinOnWindows
-    image_url: https://github.com/hwu71/hwu71.github.io/blob/master/photos/c-cpp.jpg
+    image_url: ../photos/c-cpp.png
 
-  - name: Web design
+  - name: JavaScript/HTML/CSS
+    web_url: https://github.com/hwu71/RUCMarket
+    image_url: ../photos/html-css-js.jpg
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Assembly Language
+    web_url: https://github.com/hwu71/ROP_attacks_and_defense
+    image_url: ../photos/asm.png
+    
+  - name: Solidity
+    web_url: https://github.com/hwu71/RUCMarket
+    image_url: ../photos/solidity.png
+    
+  - name: Intel Pin
+    web_url: https://github.com/hwu71/PinOnWindows
+    image_url: ../photos/pin.jpg
+    
+  - name: IDA Pro
+    web_url: https://www.hex-rays.com/products/ida/
+    image_url: ../photos/ida.png
+    
+    
+events:
+  - note: IBM Vault
+    description: The final stage is a hacking competition at the IBM X-Force Command Center and my team won the second place!
+    location: Boston, MA
+    time: 2018-10
+    web_url: https://www.ibm.com/employment/vault/
+    image_url01: ../photos/ibm01.jpg
+    image_url02: ../photos/ibm02.jpg
+
+  - note: National Information Security Competition of China
+    description: My team presented our Password Management System at the final and won the second prize!
+    location: Wuhan, China
+    time: 2018-08
+    web_url: https://github.com/hwu71/Password-Management-System-Based-on-Living-body-Authentication
+    image_url01: ../photos/sec01.jpg
+    image_url02: ../photos/sec02.jpg
