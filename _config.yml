@@ -88,3 +88,10 @@ events:
     web_url: https://github.com/hwu71/Password-Management-System-Based-on-Living-body-Authentication
     image_url01: ../photos/sec01.jpg
     image_url02: ../photos/sec02.jpg
+    
+videos:
+  - note: AI Course Project--A Scavenger Hunter
+    description: My teammates and I built an interactive and intelligent dolly, with functions including Bluetooth control, autonomous obstacle avoidance, and voice-controlled object searching based on object recognition. This video shows how it seeks a laptop.
+    location: Beijing, China
+    time: 2017-12
+    video_url: https://www.youtube.com/embed/F15bZyhj9KQ
