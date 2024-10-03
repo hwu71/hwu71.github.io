@@ -114,3 +114,7 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+
+### Hongwei's notes
+#### Installing ruby
+Follow the instructions in [this website](https://gorails.com/setup/ubuntu/22.04) to install ruby.
