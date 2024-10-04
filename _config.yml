@@ -1,5 +1,6 @@
 title: Hongwei Wu
 logo: /assets/img/personal_pic.png
+resume_path: /assets/files/Hongwei_Wu_Resume.pdf
 description: Ph.D. student at Purdue University
 show_downloads: false
 google_analytics: UA-152715299-1
@@ -18,3 +19,4 @@ social_links:
   email: "mailto:wu1685@purdue.edu"
   github: "https://github.com/hwu71"
   linkedin: "https://www.linkedin.com/in/hongwei-wu/"
+  google_scholar: "https://"
