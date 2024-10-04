@@ -1,5 +1,5 @@
 title: Hongwei Wu
-logo: /assets/img/Bibabo.png
+logo: /assets/img/personal_pic.png
 description: Ph.D. student at Purdue University
 show_downloads: false
 google_analytics: UA-152715299-1
@@ -11,21 +11,10 @@ plugins:
 
 url: 'https://hwu71.github.io'
 
-author: Hongwei Wu                 # change to your full name
+author: Hongwei Wu
 
-github:
-  username: hwu71             # change to your github username
-
-twitter:
-  username: darkocobe            # change to your twitter username
-
-social:
-  name: Hongwei Wu                  # it will shows as the copyright owner in Footer
-  email: wu1685@purdue.edu             # change to your email address
-  links:
-    # The first element serves as the copyright owner's link
-    # - https://twitter.com/darkocobe      # change to your twitter homepage
-    - https://github.com/hwu71       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/hongwei-wu/
+social_links:
+  name: Hongwei Wu
+  email: "mailto:wu1685@purdue.edu"
+  github: "https://github.com/hwu71"
+  linkedin: "https://www.linkedin.com/in/hongwei-wu/"
